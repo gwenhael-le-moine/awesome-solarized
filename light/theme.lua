@@ -8,7 +8,7 @@
 
 -- {{{ Main
 theme = {}
-theme.path = os.getenv( "HOME" ) .. "/.config/awesome/themes/solarized-light"
+theme.path = os.getenv( "HOME" ) .. "/.config/awesome/themes/awesome-solarized/light"
 theme.default_themes_path = "/usr/share/awesome/themes"
 theme.wallpaper_cmd = { "awsetbg "..theme.default_themes_path.."/sky/sky-background.png" }
 theme.colors = {}
