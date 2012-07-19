@@ -30,7 +30,7 @@ theme.colors.green   = "#859900"
 -- }}}
 
 -- {{{ Styles
-theme.font      = "ubuntu 9"
+theme.font      = "Ubuntu Mono 11"
 
 -- {{{ Colors
 theme.fg_normal  = theme.colors.base02
